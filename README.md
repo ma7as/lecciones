@@ -1,2 +1,4 @@
 lecciones
 =========
+
+Apenas iniciando.
